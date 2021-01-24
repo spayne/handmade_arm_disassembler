@@ -1,0 +1,6 @@
+do a best match - walk through everything and count number of exact bits
+
++ I think it works best
+- not performant - at the moment will require searching the whole list for each instruction
+
+the number of params is also a hint: less params means more specific match
